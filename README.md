@@ -41,13 +41,13 @@ Tutorial de como Registrar sua pesquisa na plataforma Pesquisa Saúde
 ![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial-12.png?raw=true)
 
 14 - Na opção do "Edital", clicar na lupa sinalizada na imagem abaixo
-![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial edital.png?raw=true)
+![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/tutorial%20edital.png?raw=true)
 
 15 - Na caixa que irá abrir, selecionar em "Tipo de Contratação" a opção de "Chamada" e depois escrever na seção de "edital":  Terapias avançadas e clicar pesquisar
-![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial edital-2.png?raw=true)
+![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/tutorial%20edital.png-2.png?raw=true)
 
 16 - Clicar no ícone indicado abaixo, para selecionar o edital correto.
-![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial edital-3.png?raw=true)
+![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/tutorial%20edital.png-3.png?raw=true)
 
 17 - Apos preencher todas as informações clicar em gravar
 ![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial-13.png?raw=true)
