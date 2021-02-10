@@ -35,6 +35,7 @@ Tutorial de como Registrar sua pesquisa na plataforma Pesquisa Saúde
 ![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial-1.PNG?raw=true)
 
 ## 12 - Com login realizado, clicar em "Inserir Pesquisa"
+obs: Caso o botão "Inserir Pesquisa" não apareça, o pesquisador pode possuir uma pendência de uma pesquisa anterior na plataforma. Para o botão aparecer novamente, deve-se preencher todos os campos em vermelho e negrito nas pesquisas anteriores. 
 ![alt text](https://github.com/genbr/Tutorial_Pesquisa_Saude_Pesquisador/blob/main/Tutorial-11.png?raw=true)
 
 ## 13 - Cadastrar todas as informações da sua pesquisa
